@@ -41,12 +41,12 @@ namespace BankingApp
 
         private void fromChequeRadioButton_Checked(object sender, RoutedEventArgs e)
         {
-
+            // Add code
         }
 
         private void fromInvestmentRadioButton_Checked(object sender, RoutedEventArgs e)
         {
-            
+            // Add code
         }
 
 
